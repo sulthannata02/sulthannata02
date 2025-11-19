@@ -3,7 +3,7 @@
 🎓 **Informatics Student**  
 💻 **Backend-focused Web Developer** (with some frontend experience)
 
-I mostly focus on **backend development** using languages and frameworks like **PHP, JavaScript, Golang, Python, Laravel, Fiber, Java, Spring**, while also having experience with **frontend technologies** including **HTML, CSS, Tailwind, Bootstrap, Angular, Ionic, React, JavaScript**.  
+I mostly focus on **backend development** using languages and frameworks like **PHP, JavaScript, Golang, Python, Laravel, Java, Spring**, while also having experience with **frontend technologies** including **HTML, CSS, Tailwind, Bootstrap, Angular, React, JavaScript**.  
 I have worked with **databases** such as **MySQL** and **PostgreSQL**.
 
 ---
