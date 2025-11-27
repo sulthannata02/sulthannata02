@@ -33,10 +33,6 @@ I have worked with **databases** such as **MySQL** and **PostgreSQL**.
 </a>
 </p>
 
-### 📫 **Connect With Me**
-
-- 🐦 [Twitter](https://twitter.com/sulthannata02)
-
 ---
 
 ⭐️ From [@sulthannata02](https://github.com/sulthannata02)
